@@ -1,4 +1,4 @@
-﻿<Window x:Class="WpfRegistroDeSocios.MainWindow"
+<Window x:Class="WpfRegistroDeSocios.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox HorizontalAlignment="Left" Height="17" Margin="299,10,0,0" TextWrapping="Wrap" Text="Registro de Socios" VerticalAlignment="Top" Width="114"/>
+        <TextBox HorizontalAlignment="Left" Height="17" Margin="299,10,0,0" TextWrapping="Wrap" Text="Registro de Socios ejemplo prueba 2" VerticalAlignment="Top" Width="114"/>
 
     </Grid>
-</Window>
+    </Window>
